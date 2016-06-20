@@ -1,0 +1,36 @@
+body {
+    background: silver;
+    font: 14px 'trebuchet ms', arial, sans-serif;
+}
+
+/** Structure */
+#header {
+    padding: 20px;
+    background: black;
+    color: #fff;
+    border-bottom: 4px solid #436fac;
+}
+
+#content {
+    background: #fff;
+    padding: 97px;
+}
+
+#footer {
+    background: green;
+    color: #fff;
+    padding: 20px;
+    border-top: 4px solid #436fac;
+}
+
+#header :a{
+    align-items: right;
+}
+
+
+
+
+
+
+
+
